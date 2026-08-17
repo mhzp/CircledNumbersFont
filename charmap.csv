@@ -1,0 +1,101 @@
+﻿number,type_this,byte_hex,pua_codepoint,standard_unicode,notes
+1,1,0x31,U+E001,U+2460,
+2,2,0x32,U+E002,U+2461,
+3,3,0x33,U+E003,U+2462,
+4,4,0x34,U+E004,U+2463,
+5,5,0x35,U+E005,U+2464,
+6,6,0x36,U+E006,U+2465,
+7,7,0x37,U+E007,U+2466,
+8,8,0x38,U+E008,U+2467,
+9,9,0x39,U+E009,U+2468,
+10,0,0x30,U+E00A,U+2469,
+11,A,0x41,U+E00B,U+246A,
+12,B,0x42,U+E00C,U+246B,
+13,C,0x43,U+E00D,U+246C,
+14,D,0x44,U+E00E,U+246D,
+15,E,0x45,U+E00F,U+246E,
+16,F,0x46,U+E010,U+246F,
+17,G,0x47,U+E011,U+2470,
+18,H,0x48,U+E012,U+2471,
+19,I,0x49,U+E013,U+2472,
+20,J,0x4A,U+E014,U+2473,
+21,K,0x4B,U+E015,U+3251,
+22,L,0x4C,U+E016,U+3252,
+23,M,0x4D,U+E017,U+3253,
+24,N,0x4E,U+E018,U+3254,
+25,O,0x4F,U+E019,U+3255,
+26,P,0x50,U+E01A,U+3256,
+27,Q,0x51,U+E01B,U+3257,
+28,R,0x52,U+E01C,U+3258,
+29,S,0x53,U+E01D,U+3259,
+30,T,0x54,U+E01E,U+325A,
+31,U,0x55,U+E01F,U+325B,
+32,V,0x56,U+E020,U+325C,
+33,W,0x57,U+E021,U+325D,
+34,X,0x58,U+E022,U+325E,
+35,Y,0x59,U+E023,U+325F,
+36,Z,0x5A,U+E024,U+32B1,
+37,a,0x61,U+E025,U+32B2,
+38,b,0x62,U+E026,U+32B3,
+39,c,0x63,U+E027,U+32B4,
+40,d,0x64,U+E028,U+32B5,
+41,e,0x65,U+E029,U+32B6,
+42,f,0x66,U+E02A,U+32B7,
+43,g,0x67,U+E02B,U+32B8,
+44,h,0x68,U+E02C,U+32B9,
+45,i,0x69,U+E02D,U+32BA,
+46,j,0x6A,U+E02E,U+32BB,
+47,k,0x6B,U+E02F,U+32BC,
+48,l,0x6C,U+E030,U+32BD,
+49,m,0x6D,U+E031,U+32BE,
+50,n,0x6E,U+E032,U+32BF,
+51,o,0x6F,U+E033,,no standard Unicode codepoint exists above 50
+52,p,0x70,U+E034,,no standard Unicode codepoint exists above 50
+53,q,0x71,U+E035,,no standard Unicode codepoint exists above 50
+54,r,0x72,U+E036,,no standard Unicode codepoint exists above 50
+55,s,0x73,U+E037,,no standard Unicode codepoint exists above 50
+56,t,0x74,U+E038,,no standard Unicode codepoint exists above 50
+57,u,0x75,U+E039,,no standard Unicode codepoint exists above 50
+58,v,0x76,U+E03A,,no standard Unicode codepoint exists above 50
+59,w,0x77,U+E03B,,no standard Unicode codepoint exists above 50
+60,x,0x78,U+E03C,,no standard Unicode codepoint exists above 50
+61,y,0x79,U+E03D,,no standard Unicode codepoint exists above 50
+62,z,0x7A,U+E03E,,no standard Unicode codepoint exists above 50
+63,À,0xC0,U+E03F,,no standard Unicode codepoint exists above 50
+64,Á,0xC1,U+E040,,no standard Unicode codepoint exists above 50
+65,Â,0xC2,U+E041,,no standard Unicode codepoint exists above 50
+66,Ã,0xC3,U+E042,,no standard Unicode codepoint exists above 50
+67,Ä,0xC4,U+E043,,no standard Unicode codepoint exists above 50
+68,Å,0xC5,U+E044,,no standard Unicode codepoint exists above 50
+69,Æ,0xC6,U+E045,,no standard Unicode codepoint exists above 50
+70,Ç,0xC7,U+E046,,no standard Unicode codepoint exists above 50
+71,È,0xC8,U+E047,,no standard Unicode codepoint exists above 50
+72,É,0xC9,U+E048,,no standard Unicode codepoint exists above 50
+73,Ê,0xCA,U+E049,,no standard Unicode codepoint exists above 50
+74,Ë,0xCB,U+E04A,,no standard Unicode codepoint exists above 50
+75,Ì,0xCC,U+E04B,,no standard Unicode codepoint exists above 50
+76,Í,0xCD,U+E04C,,no standard Unicode codepoint exists above 50
+77,Î,0xCE,U+E04D,,no standard Unicode codepoint exists above 50
+78,Ï,0xCF,U+E04E,,no standard Unicode codepoint exists above 50
+79,Ð,0xD0,U+E04F,,no standard Unicode codepoint exists above 50
+80,Ñ,0xD1,U+E050,,no standard Unicode codepoint exists above 50
+81,Ò,0xD2,U+E051,,no standard Unicode codepoint exists above 50
+82,Ó,0xD3,U+E052,,no standard Unicode codepoint exists above 50
+83,Ô,0xD4,U+E053,,no standard Unicode codepoint exists above 50
+84,Õ,0xD5,U+E054,,no standard Unicode codepoint exists above 50
+85,Ö,0xD6,U+E055,,no standard Unicode codepoint exists above 50
+86,×,0xD7,U+E056,,no standard Unicode codepoint exists above 50
+87,Ø,0xD8,U+E057,,no standard Unicode codepoint exists above 50
+88,Ù,0xD9,U+E058,,no standard Unicode codepoint exists above 50
+89,Ú,0xDA,U+E059,,no standard Unicode codepoint exists above 50
+90,Û,0xDB,U+E05A,,no standard Unicode codepoint exists above 50
+91,Ü,0xDC,U+E05B,,no standard Unicode codepoint exists above 50
+92,Ý,0xDD,U+E05C,,no standard Unicode codepoint exists above 50
+93,Þ,0xDE,U+E05D,,no standard Unicode codepoint exists above 50
+94,ß,0xDF,U+E05E,,no standard Unicode codepoint exists above 50
+95,à,0xE0,U+E05F,,no standard Unicode codepoint exists above 50
+96,á,0xE1,U+E060,,no standard Unicode codepoint exists above 50
+97,â,0xE2,U+E061,,no standard Unicode codepoint exists above 50
+98,ã,0xE3,U+E062,,no standard Unicode codepoint exists above 50
+99,ä,0xE4,U+E063,,no standard Unicode codepoint exists above 50
+100,å,0xE5,U+E064,,no standard Unicode codepoint exists above 50
